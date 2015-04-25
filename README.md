@@ -1,3 +1,3 @@
 # gitciff
 
-Este mensaje lo he añadido en la primera version :
+Este script saluda al usuario con el primer parametro
