@@ -1,3 +1,3 @@
 # gitciff
 
-Este mensaje lo he añadido en la primera version :(
+Este mensaje lo he añadido en la primera version :
