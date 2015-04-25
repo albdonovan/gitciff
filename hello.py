@@ -1,1 +1,2 @@
-print "Hello " + argv[1] 
+import sys
+print "Hello " + sys.argv[1] 
